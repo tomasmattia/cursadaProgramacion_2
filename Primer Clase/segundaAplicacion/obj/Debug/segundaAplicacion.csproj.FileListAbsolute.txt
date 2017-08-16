@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase\segundaAplicacion\bin\Debug\segundaAplicacion.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase\segundaAplicacion\bin\Debug\segundaAplicacion.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase\segundaAplicacion\bin\Debug\segundaAplicacion.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase\segundaAplicacion\obj\Debug\segundaAplicacion.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase\segundaAplicacion\obj\Debug\segundaAplicacion.pdb

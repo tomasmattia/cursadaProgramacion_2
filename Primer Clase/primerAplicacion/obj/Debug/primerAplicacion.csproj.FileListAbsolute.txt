@@ -1,0 +1,6 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase\primerAplicacion\bin\Debug\primerAplicacion.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase\primerAplicacion\obj\Debug\primerAplicacion.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase\primerAplicacion\bin\Debug\primerAplicacion.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase\primerAplicacion\bin\Debug\primerAplicacion.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase\primerAplicacion\obj\Debug\primerAplicacion.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase\primerAplicacion\obj\Debug\primerAplicacion.pdb
