@@ -1,0 +1,6 @@
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 10\bin\Debug\Ejercicio 10.exe.config
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 10\bin\Debug\Ejercicio 10.exe
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 10\bin\Debug\Ejercicio 10.pdb
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 10\obj\Debug\Ejercicio 10.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 10\obj\Debug\Ejercicio 10.exe
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 10\obj\Debug\Ejercicio 10.pdb
