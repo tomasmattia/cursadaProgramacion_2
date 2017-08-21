@@ -1,0 +1,7 @@
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 3\obj\Debug\Ejercicio 3.csprojResolveAssemblyReference.cache
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\tomas\source\repos\Ejercicios\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
