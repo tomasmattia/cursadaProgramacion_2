@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Segunda Clase\Ejercicio 12\bin\Debug\Ejercicio 12.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Segunda Clase\Ejercicio 12\bin\Debug\Ejercicio 12.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Segunda Clase\Ejercicio 12\bin\Debug\Ejercicio 12.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Segunda Clase\Ejercicio 12\obj\Debug\Ejercicio 12.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Segunda Clase\Ejercicio 12\obj\Debug\Ejercicio 12.pdb
