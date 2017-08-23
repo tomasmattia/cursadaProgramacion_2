@@ -1,0 +1,7 @@
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\Segunda Clase\Ejercicio 14\bin\Debug\Ejercicio 14.exe.config
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\Segunda Clase\Ejercicio 14\bin\Debug\Ejercicio 14.exe
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\Segunda Clase\Ejercicio 14\bin\Debug\Ejercicio 14.pdb
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\Segunda Clase\Ejercicio 14\obj\Debug\Ejercicio 14.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\Segunda Clase\Ejercicio 14\obj\Debug\Ejercicio 14.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\Segunda Clase\Ejercicio 14\obj\Debug\Ejercicio 14.exe
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\Segunda Clase\Ejercicio 14\obj\Debug\Ejercicio 14.pdb
