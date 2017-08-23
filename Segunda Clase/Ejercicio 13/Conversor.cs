@@ -18,10 +18,7 @@ namespace Ejercicio_13
         }
         public static double BinarioDecimal(string number)
         {
-            int fromBase = 2;
-            int toBase = 10;
-            string numero = Convert.ToString(Convert.ToInt32(number, fromBase), toBase);
-            double valorRetorno=Convert.ToDouble(numero);
+            double valorRetorno = Convert.ToInt64(number, 2);
             return valorRetorno;
         }
     }

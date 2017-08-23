@@ -39,13 +39,16 @@ namespace Ejercicio_13
                 Console.WriteLine(binario);
                 Console.Read();
             }
-            if (respuesta == 2)
+            else
             {
-                Console.Write("ingrese el numero: ");
-                binario=Console.ReadLine();
-                decimalBinario = Conversor.BinarioDecimal(binario);
-                Console.WriteLine(binario);
-                Console.Read();
+                if (respuesta == 2)
+                {
+                    Console.Write("ingrese el numero: ");
+                    binario = Console.ReadLine();
+                    decimalBinario = Conversor.BinarioDecimal(binario);
+                    Console.WriteLine(decimalBinario);
+                    Console.Read();
+                }
             }
         }
     }
