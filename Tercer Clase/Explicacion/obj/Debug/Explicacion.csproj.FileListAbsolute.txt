@@ -1,0 +1,6 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Tercer Clase\Explicacion\bin\Debug\Explicacion.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Tercer Clase\Explicacion\bin\Debug\Explicacion.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Tercer Clase\Explicacion\bin\Debug\Explicacion.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Tercer Clase\Explicacion\obj\Debug\Explicacion.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Tercer Clase\Explicacion\obj\Debug\Explicacion.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Tercer Clase\Explicacion\obj\Debug\Explicacion.pdb
