@@ -11,11 +11,10 @@ namespace Ejercicio_Uno
         static void Main(string[] args)
         {
             Cosa unaCosa = new Cosa(99,"Pepe",new DateTime(2018,06,06,23,59,59));
-            unaCosa.color = ConsoleColor.DarkRed;
-            Console.ForegroundColor = unaCosa.color;
+            unaCosa.EstablecerValor(ConsoleColor.DarkRed);
             Console.WriteLine(unaCosa.Mostrar());
             Console.ForegroundColor = ConsoleColor.Gray;
-            unaCosa.color = Console.ForegroundColor;
+            unaCosa.EstablecerValor(Console.ForegroundColor);
             Console.WriteLine(unaCosa.Mostrar());
             Console.Read();
         }

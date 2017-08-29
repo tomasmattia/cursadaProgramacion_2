@@ -61,6 +61,7 @@ namespace Ejercicio_Uno
         public void EstablecerValor(ConsoleColor color)
         {
             this.color = color;
+            Console.ForegroundColor = color;
         }
         /// <summary>
         /// Toma un objeto y retorna una cadena con los valores
