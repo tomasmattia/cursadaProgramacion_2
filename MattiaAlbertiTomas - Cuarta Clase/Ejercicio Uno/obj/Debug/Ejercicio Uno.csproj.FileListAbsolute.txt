@@ -1,0 +1,6 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Cuarta Clase\Ejercicio Uno\bin\Debug\Ejercicio Uno.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Cuarta Clase\Ejercicio Uno\obj\Debug\Ejercicio Uno.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Cuarta Clase\Ejercicio Uno\bin\Debug\Ejercicio Uno.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Cuarta Clase\Ejercicio Uno\bin\Debug\Ejercicio Uno.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Cuarta Clase\Ejercicio Uno\obj\Debug\Ejercicio Uno.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Cuarta Clase\Ejercicio Uno\obj\Debug\Ejercicio Uno.pdb
