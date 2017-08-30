@@ -1,0 +1,8 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Quinta Clase\EjercicioTinta\bin\Debug\EjercicioTinta.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Quinta Clase\EjercicioTinta\bin\Debug\EjercicioTinta.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Quinta Clase\EjercicioTinta\bin\Debug\EjercicioTinta.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Quinta Clase\EjercicioTinta\bin\Debug\Entidades.Clase05.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Quinta Clase\EjercicioTinta\bin\Debug\Entidades.Clase05.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Quinta Clase\EjercicioTinta\obj\Debug\EjercicioTinta.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Quinta Clase\EjercicioTinta\obj\Debug\EjercicioTinta.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Quinta Clase\EjercicioTinta\obj\Debug\EjercicioTinta.pdb
