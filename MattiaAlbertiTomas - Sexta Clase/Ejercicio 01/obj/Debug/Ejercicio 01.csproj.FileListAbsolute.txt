@@ -1,0 +1,8 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.csprojResolveAssemblyReference.cache

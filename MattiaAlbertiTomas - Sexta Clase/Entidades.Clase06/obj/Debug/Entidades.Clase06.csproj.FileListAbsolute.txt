@@ -1,0 +1,4 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.pdb
