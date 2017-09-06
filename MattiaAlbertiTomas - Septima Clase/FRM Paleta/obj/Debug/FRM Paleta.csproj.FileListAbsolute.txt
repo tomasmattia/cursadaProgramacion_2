@@ -1,0 +1,12 @@
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\obj\Debug\FRM Paleta.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\obj\Debug\FRM_Paleta.Form1.resources
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\obj\Debug\FRM_Paleta.Properties.Resources.resources
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\obj\Debug\FRM Paleta.csproj.GenerateResource.Cache
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\bin\Debug\FRM Paleta.exe.config
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\bin\Debug\FRM Paleta.exe
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\bin\Debug\FRM Paleta.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\bin\Debug\Entidades.Clase06.dll
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\bin\Debug\Entidades.Clase06.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\obj\Debug\FRM Paleta.exe
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\obj\Debug\FRM Paleta.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\FRM Paleta\obj\Debug\FRM_Tempera.FormTempera.resources
