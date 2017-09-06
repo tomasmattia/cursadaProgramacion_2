@@ -31,9 +31,15 @@ namespace Ejercicio_01
             //Console.WriteLine(tresTempera+200);
             //Console.WriteLine(Tempera.Mostrar(unaTempera));
             Paleta unaPaleta = 1 ;
+            Paleta dosPaleta = 3;
+            Paleta tresPaleta;
             Tempera unaTempera = new Tempera(ConsoleColor.Cyan, "Maped", 20);
-            unaPaleta = unaPaleta + unaTempera;
-            Console.WriteLine((string)unaPaleta);
+            Tempera dosTempera = new Tempera(ConsoleColor.Cyan, "Kapped", 20);
+            unaPaleta += unaTempera;
+            dosPaleta += unaTempera;
+            dosPaleta += dosTempera;
+            tresPaleta= unaPaleta+ dosPaleta;
+            Console.WriteLine((string)tresPaleta);
             Console.Read();
         }
     }

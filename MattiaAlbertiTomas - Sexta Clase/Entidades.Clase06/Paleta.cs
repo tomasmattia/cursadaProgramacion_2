@@ -18,10 +18,6 @@ namespace Entidades.Clase06
         {
             this._cantMaximaColores = cantidad;
             this._colores = new Tempera[this._cantMaximaColores];
-            for (int i = 0; i < this._cantMaximaColores; i++)
-            {
-                this._colores[i] = new Tempera();
-            }
         }
 
         static public implicit operator Paleta(int cantidad)
@@ -33,9 +29,12 @@ namespace Entidades.Clase06
         {
             string retorno = "Cantidad colores: " + this._cantMaximaColores;
             retorno+="\nTemperas :\n";
-            foreach(Tempera temp in this._colores)
+            for(int index=0; index< this._cantMaximaColores;index++)
             {
-                retorno+=Tempera.Mostrar(temp)+"\n";
+                if (this._colores.GetValue(index) != null)
+                {
+                    retorno += Tempera.Mostrar(this._colores[index]) + "\n";
+                }
             }
             return retorno;
         }
@@ -48,12 +47,15 @@ namespace Entidades.Clase06
         static public bool operator ==(Paleta unaPaleta, Tempera unaTempera)
         {
             bool valorRetorno = false;
-            foreach(Tempera temp in unaPaleta._colores)
+            for(int index=0; index <unaPaleta._cantMaximaColores;index++)
             {
-                if(temp==unaTempera)
+                if (unaPaleta._colores.GetValue(index) != null)
                 {
-                    valorRetorno = true;
-                    break;
+                    if (unaPaleta._colores[index] == unaTempera)
+                    {
+                        valorRetorno = true;
+                        break;
+                    }
                 }
             }
             return valorRetorno;
@@ -64,27 +66,32 @@ namespace Entidades.Clase06
             return !(unaPaleta == unaTempera);
         }
 
-        static private int BuscarEspacio(Paleta unaPaleta)
+        private int BuscarEspacio()
         {
             int valorRetorno = -1;
-            for(int index=0; index<unaPaleta._cantMaximaColores;index ++)
+            for(int index=0; index<this._cantMaximaColores;index ++)
             {
-                if (unaPaleta._colores[index] == null)
+                if (this._colores.GetValue(index) == null)
                 {
                     valorRetorno = index;
+                    break;
                 }
             }
             return valorRetorno;
         }
 
-        static private int BuscarTempera(Paleta unaPaleta, Tempera unaTempera)
+        private int BuscarTempera(Tempera unaTempera)
         {
             int valorRetorno = -1;
-            for (int index = 0; index < unaPaleta._cantMaximaColores; index++)
+            for (int index = 0; index < this._cantMaximaColores; index++)
             {
-                if (unaPaleta._colores[index] == unaTempera)
+                if (this._colores.GetValue(index) != null)
                 {
-                    valorRetorno = index;
+                    if (this._colores[index] == unaTempera)
+                    {
+                        valorRetorno = index;
+                        break;
+                    }
                 }
             }
             return valorRetorno;
@@ -92,11 +99,18 @@ namespace Entidades.Clase06
 
         static public Paleta operator +(Paleta unaPaleta, Tempera unaTempera)
         {
-            if(unaPaleta!=unaTempera)
+            if (unaPaleta != unaTempera)
             {
-                if(Paleta.BuscarEspacio(unaPaleta)>0)
+                if (unaPaleta.BuscarEspacio() >= 0)
                 {
-                    unaPaleta._colores[Paleta.BuscarEspacio(unaPaleta)] = unaTempera;
+                    unaPaleta._colores[unaPaleta.BuscarEspacio()] = unaTempera;
+                }
+            }
+            else
+            {
+                if (unaPaleta.BuscarTempera(unaTempera) >= 0)
+                {
+                    unaPaleta._colores[unaPaleta.BuscarTempera(unaTempera)] += unaTempera;
                 }
             }
             return unaPaleta;
@@ -106,12 +120,31 @@ namespace Entidades.Clase06
         {
             if (unaPaleta == unaTempera)
             {
-                if (Paleta.BuscarEspacio(unaPaleta) > 0)
+                if (unaPaleta.BuscarTempera(unaTempera) >= 0)
                 {
-                    unaPaleta._colores[Paleta.BuscarEspacio(unaPaleta)] = null;
+                    unaPaleta._colores[unaPaleta.BuscarTempera(unaTempera)] = null;
                 }
             }
             return unaPaleta;
+        }
+        static public Paleta operator +(Paleta unaPaleta, Paleta otraPaleta)
+        {
+            Paleta nuevaPaleta = unaPaleta._cantMaximaColores+otraPaleta._cantMaximaColores;
+            for (int index = 0; index < unaPaleta._cantMaximaColores; index++)
+            {
+                if (unaPaleta._colores.GetValue(index) != null)
+                {
+                    nuevaPaleta += unaPaleta._colores[index];
+                }
+            }
+            for (int index = 0; index < otraPaleta._cantMaximaColores; index++)
+            {
+                if (otraPaleta._colores.GetValue(index) != null)
+                {
+                    nuevaPaleta += otraPaleta._colores[index];
+                }
+            }
+            return nuevaPaleta;
         }
     }
 }

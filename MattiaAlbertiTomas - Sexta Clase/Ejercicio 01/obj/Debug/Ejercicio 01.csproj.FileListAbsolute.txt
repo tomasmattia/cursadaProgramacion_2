@@ -15,3 +15,11 @@ C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-mast
 C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.CoreCompileInputs.cache
 C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.exe
 C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe.config
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.exe
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.dll
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.csprojResolveAssemblyReference.cache
