@@ -44,5 +44,74 @@ namespace Entidades.Clase06
         {
             return unaPaleta.Mostrar();
         }
+
+        static public bool operator ==(Paleta unaPaleta, Tempera unaTempera)
+        {
+            bool valorRetorno = false;
+            foreach(Tempera temp in unaPaleta._colores)
+            {
+                if(temp==unaTempera)
+                {
+                    valorRetorno = true;
+                    break;
+                }
+            }
+            return valorRetorno;
+        }
+
+        static public bool operator !=(Paleta unaPaleta, Tempera unaTempera)
+        {
+            return !(unaPaleta == unaTempera);
+        }
+
+        static private int BuscarEspacio(Paleta unaPaleta)
+        {
+            int valorRetorno = -1;
+            for(int index=0; index<unaPaleta._cantMaximaColores;index ++)
+            {
+                if (unaPaleta._colores[index] == null)
+                {
+                    valorRetorno = index;
+                }
+            }
+            return valorRetorno;
+        }
+
+        static private int BuscarTempera(Paleta unaPaleta, Tempera unaTempera)
+        {
+            int valorRetorno = -1;
+            for (int index = 0; index < unaPaleta._cantMaximaColores; index++)
+            {
+                if (unaPaleta._colores[index] == unaTempera)
+                {
+                    valorRetorno = index;
+                }
+            }
+            return valorRetorno;
+        }
+
+        static public Paleta operator +(Paleta unaPaleta, Tempera unaTempera)
+        {
+            if(unaPaleta!=unaTempera)
+            {
+                if(Paleta.BuscarEspacio(unaPaleta)>0)
+                {
+                    unaPaleta._colores[Paleta.BuscarEspacio(unaPaleta)] = unaTempera;
+                }
+            }
+            return unaPaleta;
+        }
+
+        static public Paleta operator -(Paleta unaPaleta, Tempera unaTempera)
+        {
+            if (unaPaleta == unaTempera)
+            {
+                if (Paleta.BuscarEspacio(unaPaleta) > 0)
+                {
+                    unaPaleta._colores[Paleta.BuscarEspacio(unaPaleta)] = null;
+                }
+            }
+            return unaPaleta;
+        }
     }
 }
