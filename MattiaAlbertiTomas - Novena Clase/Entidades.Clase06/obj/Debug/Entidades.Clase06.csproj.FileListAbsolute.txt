@@ -1,0 +1,22 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.pdb
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.dll
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.pdb
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.dll
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.dll
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.dll
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Septima Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.dll
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Septima Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Septima Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.dll
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Septima Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.pdb
+D:\MattiaAlbertiTomas - Octava Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.dll
+D:\MattiaAlbertiTomas - Octava Clase\Entidades.Clase06\bin\Debug\Entidades.Clase06.pdb
+D:\MattiaAlbertiTomas - Octava Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.dll
+D:\MattiaAlbertiTomas - Octava Clase\Entidades.Clase06\obj\Debug\Entidades.Clase06.pdb

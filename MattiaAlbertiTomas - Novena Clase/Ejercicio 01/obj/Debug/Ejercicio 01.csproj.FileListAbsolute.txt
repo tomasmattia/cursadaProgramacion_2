@@ -1,0 +1,33 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe.config
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.pdb
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.dll
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.pdb
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.exe
+C:\Users\tomas\Downloads\cursadaProgramacion_2-master\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe.config
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.exe
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Ejercicio 01.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.dll
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.pdb
+C:\Users\alumno\Downloads\cursadaProgramacion_2-master\MattiaAlbertiTomas - Sexta Clase\Ejercicio 01\obj\Debug\Ejercicio 01.csprojResolveAssemblyReference.cache
+D:\MattiaAlbertiTomas - Octava Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe.config
+D:\MattiaAlbertiTomas - Octava Clase\Ejercicio 01\bin\Debug\Ejercicio 01.exe
+D:\MattiaAlbertiTomas - Octava Clase\Ejercicio 01\bin\Debug\Ejercicio 01.pdb
+D:\MattiaAlbertiTomas - Octava Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.dll
+D:\MattiaAlbertiTomas - Octava Clase\Ejercicio 01\bin\Debug\Entidades.Clase06.pdb
+D:\MattiaAlbertiTomas - Octava Clase\Ejercicio 01\obj\Debug\Ejercicio 01.csprojResolveAssemblyReference.cache
+D:\MattiaAlbertiTomas - Octava Clase\Ejercicio 01\obj\Debug\Ejercicio 01.exe
+D:\MattiaAlbertiTomas - Octava Clase\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
