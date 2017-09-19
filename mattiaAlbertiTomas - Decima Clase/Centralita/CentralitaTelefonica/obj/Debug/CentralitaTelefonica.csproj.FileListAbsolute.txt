@@ -1,0 +1,4 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita\CentralitaTelefonica\bin\Debug\CentralitaTelefonica.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita\CentralitaTelefonica\bin\Debug\CentralitaTelefonica.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita\CentralitaTelefonica\obj\Debug\CentralitaTelefonica.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita\CentralitaTelefonica\obj\Debug\CentralitaTelefonica.pdb
