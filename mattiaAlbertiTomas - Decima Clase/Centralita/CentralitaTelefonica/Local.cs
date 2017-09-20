@@ -28,9 +28,19 @@ namespace CentralitaTelefonica
             this._costo = costo;
         }
 
-        public new string Mostrar()
+        protected override string Mostrar()
         {
             return base.Mostrar()+"/ Costo :"+this.CostoLlamada;
+        }
+
+        public override string ToString()
+        {
+            return Mostrar();
+        }
+
+        public override bool Equals(object obj)
+        {
+            return obj is Local;
         }
     }
 }

@@ -77,7 +77,7 @@ namespace CentralitaTelefonica
             string retorno="Razon Social: " + this._razonSocial+" / Ganancia Total: "+this.GananciaPorTotal+" / Ganancia Local: "+this.GananciaPorLocal+" / Ganancia Provincial: "+this.GananciaPorProvincial;
             foreach (Llamada unaLlamada in this.Llamadas)
             {
-                retorno += unaLlamada.Mostrar();
+                retorno += unaLlamada.ToString();
             }
             return retorno;
         }
@@ -87,5 +87,34 @@ namespace CentralitaTelefonica
             this.Llamadas.Sort(Llamada.OrdenarPorDuracion);
         }
 
+        private void AgregarLlamada(Llamada unaLlamada)
+        {
+            this._listaDeLlamadas.Add(unaLlamada);
+        }
+
+        public static bool operator ==(Centralita unaCentralita, Llamada unaLlamada)
+        {
+            foreach (Llamada llamadasCentral in unaCentralita.Llamadas)
+            {
+                if (llamadasCentral == unaLlamada)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        public static bool operator !=(Centralita unaCentralita, Llamada unaLlamada)
+        {
+            return !(unaCentralita == unaLlamada);
+        }
+
+        public static Centralita operator +(Centralita unaCentralita, Llamada unaLlamada)
+        {
+            if (unaCentralita != unaLlamada)
+            {
+                unaCentralita.AgregarLlamada(unaLlamada);
+            }
+            return unaCentralita;
+        }
     }
 }

@@ -38,9 +38,19 @@ namespace CentralitaTelefonica
             this._franjaHoraria = miFranja;              
         }
 
-        public new string Mostrar()
+        protected override string Mostrar()
         {
             return base.Mostrar()+" / Franja Horaria: "+this._franjaHoraria.ToString()+"/ Costo :"+this.CostoLlamada;
+        }
+
+        public override string ToString()
+        {
+            return Mostrar();
+        }
+
+        public override bool Equals(object obj)
+        {
+            return obj is Provincial;
         }
     }
 }

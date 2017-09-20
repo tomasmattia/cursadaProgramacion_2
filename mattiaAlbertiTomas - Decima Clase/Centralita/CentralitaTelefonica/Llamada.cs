@@ -34,12 +34,12 @@ namespace CentralitaTelefonica
             this._nroOrigen = origen;
         }
 
-        public string Mostrar()
+        protected virtual string Mostrar()
         {
             return "Duracion: " + this.Duracion + " / Destino: " + this.NroDestino + " / Origen: " + this.NroOrigen;
         }
 
-        static public int OrdenarPorDuracion(Llamada uno, Llamada dos)
+        public static int OrdenarPorDuracion(Llamada uno, Llamada dos)
         {
             if (uno.Duracion > dos.Duracion)
             {
@@ -53,6 +53,15 @@ namespace CentralitaTelefonica
                 }
                 return 0;
             }
+        }
+        public static bool operator ==(Llamada llamadaUno, Llamada llamadaDos)
+        {
+            return llamadaUno._nroOrigen == llamadaDos._nroOrigen && llamadaUno._nroDestino == llamadaDos._nroDestino && llamadaUno.Equals(llamadaDos);
+        }
+
+        public static bool operator !=(Llamada llamadaUno, Llamada llamadaDos)
+        {
+            return !(llamadaUno == llamadaDos);
         }
 
     }
