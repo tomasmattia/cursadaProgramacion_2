@@ -17,7 +17,7 @@ namespace LavaderoAutos
 
         public override string ToString()
         {
-            return base.ToString() + "/ Cantidad Asientos: " + this._cantidadAsientos + "/n";
+            return base.ToString() + "/ Cantidad Asientos: " + this._cantidadAsientos + "\n";
         }
 
 

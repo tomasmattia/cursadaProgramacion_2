@@ -19,20 +19,19 @@ namespace LavaderoAutos
             
             get {
                 string lista = "";
-                    foreach (Vehiculo autito in _vehiculos)
+                    foreach (Vehiculo autito in Vehiculos)
                     {
                         lista += autito.ToString();
                     }
-                return "Razon Social: " + this._razonSocial + "/ Precio Auto: " + Lavadero._precioAuto + "/ Precio Moto: " + Lavadero._precioMoto + "/ Precio Camion: " + Lavadero._precioCamion+"/ Lista de vehiculos: "+ lista;
+                return "Razon Social: " + this._razonSocial + "/ Precio Auto: " + Lavadero._precioAuto + "/ Precio Moto: " + Lavadero._precioMoto + "/ Precio Camion: " + Lavadero._precioCamion+" \n/ Lista de vehiculos: "+ lista;
                 }
         }
 
-        public string Vehiculos
+        public List<Vehiculo> Vehiculos
         {
             get 
             {
-                
-                return lista;
+                return this._vehiculos;
             }
         }
         static Lavadero()

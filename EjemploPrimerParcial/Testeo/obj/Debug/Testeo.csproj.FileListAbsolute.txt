@@ -1,0 +1,10 @@
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\Testeo\obj\Debug\Testeo.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\Testeo\bin\Debug\Testeo.exe.config
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\Testeo\bin\Debug\Testeo.exe
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\Testeo\bin\Debug\Testeo.pdb
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\Testeo\bin\Debug\MattiaAlberti.Tomas.dll
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\Testeo\bin\Debug\MattiaAlberti.Tomas.pdb
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\Testeo\bin\Debug\MattiaAlberti.Tomas.dll.config
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\Testeo\obj\Debug\Testeo.exe
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\Testeo\obj\Debug\Testeo.pdb
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\Testeo\obj\Debug\Testeo.csprojResolveAssemblyReference.cache

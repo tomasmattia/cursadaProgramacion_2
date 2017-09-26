@@ -18,7 +18,7 @@ namespace LavaderoAutos
 
         public override string ToString()
         {
-            return base.ToString() + "/ Cilindrada: " + this._cilindrada + "/n";
+            return base.ToString() + "/ Cilindrada: " + this._cilindrada + "\n";
         }
     }
 }

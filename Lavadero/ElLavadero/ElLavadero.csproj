@@ -32,8 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="LavaderoAutos">
-      <HintPath>..\..\LavaderoAutos\LavaderoAutos\bin\Debug\LavaderoAutos.dll</HintPath>
+    <Reference Include="LavaderoAutos, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LavaderoAutos\LavaderoAutos\bin\Debug\LavaderoAutos.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

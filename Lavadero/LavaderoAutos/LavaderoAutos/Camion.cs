@@ -17,7 +17,7 @@ namespace LavaderoAutos
 
         public override string ToString()
         {
-            return base.ToString()+"/ Tara: "+this._tara+"/n";
+            return base.ToString()+"/ Tara: "+this._tara+"\n";
         }
     }
 }

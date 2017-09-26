@@ -1,0 +1,6 @@
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\MattiaAlberti.Tomas\obj\Debug\MattiaAlberti.Tomas.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\MattiaAlberti.Tomas\bin\Debug\MattiaAlberti.Tomas.dll.config
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\MattiaAlberti.Tomas\bin\Debug\MattiaAlberti.Tomas.dll
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\MattiaAlberti.Tomas\bin\Debug\MattiaAlberti.Tomas.pdb
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\MattiaAlberti.Tomas\obj\Debug\MattiaAlberti.Tomas.dll
+C:\Users\tomas\source\repos\MattiaAlberti.Tomas\MattiaAlberti.Tomas\obj\Debug\MattiaAlberti.Tomas.pdb
