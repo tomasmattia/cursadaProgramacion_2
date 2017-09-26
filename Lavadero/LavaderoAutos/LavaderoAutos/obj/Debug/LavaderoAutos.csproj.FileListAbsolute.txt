@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\LavaderoAutos\LavaderoAutos\bin\Debug\LavaderoAutos.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\LavaderoAutos\LavaderoAutos\bin\Debug\LavaderoAutos.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\LavaderoAutos\LavaderoAutos\obj\Debug\LavaderoAutos.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\LavaderoAutos\LavaderoAutos\obj\Debug\LavaderoAutos.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\LavaderoAutos\LavaderoAutos\obj\Debug\LavaderoAutos.csprojResolveAssemblyReference.cache
