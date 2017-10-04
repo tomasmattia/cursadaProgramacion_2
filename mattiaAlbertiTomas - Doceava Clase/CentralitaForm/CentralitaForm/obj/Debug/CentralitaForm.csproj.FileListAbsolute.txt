@@ -1,0 +1,44 @@
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\bin\Debug\CentralitaForm.exe.config
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\bin\Debug\CentralitaForm.exe
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\bin\Debug\CentralitaForm.pdb
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\bin\Debug\CentralitaTelefonica.dll
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\bin\Debug\CentralitaTelefonica.pdb
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.csprojResolveAssemblyReference.cache
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmCentralita.resources
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmLlamada.resources
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmLlamadaLocal.resources
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmProvincial.resources
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.Properties.Resources.resources
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.csproj.GenerateResource.Cache
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.csproj.CoreCompileInputs.cache
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.exe
+c:\users\tomas\source\repos\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\bin\Debug\CentralitaForm.exe.config
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\bin\Debug\CentralitaForm.exe
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\bin\Debug\CentralitaForm.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\bin\Debug\CentralitaTelefonica.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmCentralita.resources
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmLlamada.resources
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmLlamadaLocal.resources
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmProvincial.resources
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.Properties.Resources.resources
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.csproj.GenerateResource.Cache
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.exe
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.pdb
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\bin\Debug\CentralitaForm.exe.config
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\bin\Debug\CentralitaForm.exe
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\bin\Debug\CentralitaForm.pdb
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmCentralita.resources
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmLlamada.resources
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmLlamadaLocal.resources
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmProvincial.resources
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.Properties.Resources.resources
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.csproj.GenerateResource.Cache
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.exe
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.pdb
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\bin\Debug\CentralitaTelefonica.dll
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\bin\Debug\CentralitaTelefonica.pdb
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.csprojResolveAssemblyReference.cache
+D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\CentralitaForm\CentralitaForm\obj\Debug\CentralitaForm.FrmFinLlamada.resources
