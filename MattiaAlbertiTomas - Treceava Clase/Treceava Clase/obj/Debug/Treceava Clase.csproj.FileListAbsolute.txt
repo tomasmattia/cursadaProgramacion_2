@@ -1,0 +1,4 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\Treceava Clase\bin\Debug\Treceava Clase.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\Treceava Clase\bin\Debug\Treceava Clase.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\Treceava Clase\obj\Debug\Treceava Clase.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\Treceava Clase\obj\Debug\Treceava Clase.pdb

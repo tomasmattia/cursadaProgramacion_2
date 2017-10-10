@@ -1,0 +1,8 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\TesteoConsola\bin\Debug\TesteoConsola.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\TesteoConsola\bin\Debug\TesteoConsola.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\TesteoConsola\bin\Debug\TesteoConsola.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\TesteoConsola\bin\Debug\Treceava Clase.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\TesteoConsola\bin\Debug\Treceava Clase.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\TesteoConsola\obj\Debug\TesteoConsola.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\TesteoConsola\obj\Debug\TesteoConsola.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Treceava Clase\TesteoConsola\obj\Debug\TesteoConsola.csprojResolveAssemblyReference.cache
