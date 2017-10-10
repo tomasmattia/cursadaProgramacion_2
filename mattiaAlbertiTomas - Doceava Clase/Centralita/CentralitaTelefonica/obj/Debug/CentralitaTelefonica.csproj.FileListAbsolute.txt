@@ -10,3 +10,8 @@ D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\Centralita\CentralitaTelefon
 D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\Centralita\CentralitaTelefonica\obj\Debug\CentralitaTelefonica.pdb
 D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\Centralita\CentralitaTelefonica\bin\Debug\CentralitaTelefonica.dll
 D:\cursadaMattia\mattiaAlbertiTomas - Onceava Clase\Centralita\CentralitaTelefonica\bin\Debug\CentralitaTelefonica.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Doceava Clase\Centralita\CentralitaTelefonica\obj\Debug\CentralitaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Doceava Clase\Centralita\CentralitaTelefonica\obj\Debug\CentralitaTelefonica.dll
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Doceava Clase\Centralita\CentralitaTelefonica\obj\Debug\CentralitaTelefonica.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Doceava Clase\Centralita\CentralitaTelefonica\bin\Debug\CentralitaTelefonica.dll
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\mattiaAlbertiTomas - Doceava Clase\Centralita\CentralitaTelefonica\bin\Debug\CentralitaTelefonica.pdb

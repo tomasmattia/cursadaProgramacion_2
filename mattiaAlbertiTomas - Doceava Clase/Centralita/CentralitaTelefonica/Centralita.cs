@@ -92,6 +92,11 @@ namespace CentralitaTelefonica
             this._listaDeLlamadas.Add(unaLlamada);
         }
 
+        //private void RemoverLlamada(Llamada unaLlamada)
+        //{
+        //    this._listaDeLlamadas.Remove(unaLlamada);
+        //}
+
         public static bool operator ==(Centralita unaCentralita, Llamada unaLlamada)
         {
             foreach (Llamada llamadasCentral in unaCentralita.Llamadas)
@@ -116,5 +121,14 @@ namespace CentralitaTelefonica
             }
             return unaCentralita;
         }
+
+        //public static Centralita operator -(Centralita unaCentralita, Llamada unaLlamada)
+        //{
+        //    if (unaCentralita == unaLlamada)
+        //    {
+        //        unaCentralita.RemoverLlamada(unaLlamada);
+        //    }
+        //    return unaCentralita;
+        //}
     }
 }

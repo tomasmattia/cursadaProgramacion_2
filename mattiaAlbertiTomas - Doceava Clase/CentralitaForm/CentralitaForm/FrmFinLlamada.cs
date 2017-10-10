@@ -13,11 +13,27 @@ namespace CentralitaForm
 {
     public partial class FrmFinLlamada : FrmLlamada
     {
+        private DateTime tiempoFinal;
+        private TimeSpan _diferencia;
 
         public FrmFinLlamada()
         {
-
             InitializeComponent();
+        }
+        
+        public FrmFinLlamada(Llamada unaLlamada):this()
+        {
+            this._llamada = unaLlamada;
+            txtDestino.Text = unaLlamada.NroDestino;
+            txtDestino.ReadOnly = true;
+            txtOrigen.Text = unaLlamada.NroOrigen;
+            txtOrigen.ReadOnly = true;
+            tiempoFinal = DateTime.Now;
+            _diferencia = tiempoFinal - unaLlamada.TiempoLlamada;
+            tiempoInicio.Text = _diferencia.Duration().ToString();
+            tiempoInicio.ReadOnly = true;
+            unaLlamada.Duracion = (float)_diferencia.TotalMinutes;
+            costoFinal.Text= unaLlamada.CostoLlamada.ToString();
         }
 
         public override Llamada MiLlamada
@@ -34,7 +50,6 @@ namespace CentralitaForm
         protected override void btnCancelar_Click(object sender, EventArgs e)
         {
             this.DialogResult = DialogResult.Cancel;
-            base.btnCancelar_Click(sender, e);
         }
 
 

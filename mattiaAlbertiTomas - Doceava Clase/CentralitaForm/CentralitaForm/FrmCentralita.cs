@@ -14,7 +14,6 @@ namespace CentralitaForm
     public partial class FrmCentralita : Form
     {
         private Centralita _centralita = new Centralita("La central");
-        private TimeSpan _diferencia;
 
         public Centralita MiCentralita
         {
@@ -42,7 +41,10 @@ namespace CentralitaForm
                 }
                 foreach (Llamada unaLlamada in _centralita.Llamadas)
                 {
-                    this.listaLlamadas.Items.Add(unaLlamada);
+                    if (unaLlamada.CostoLlamada == 0)
+                    {
+                        this.listaLlamadas.Items.Add(unaLlamada.ToString());
+                    }
                 }
             }
         }
@@ -61,7 +63,10 @@ namespace CentralitaForm
                 }
                 foreach (Llamada unaLlamada in _centralita.Llamadas)
                 {
-                    this.listaLlamadas.Items.Add(unaLlamada.ToString());
+                    if (unaLlamada.CostoLlamada == 0)
+                    {
+                        this.listaLlamadas.Items.Add(unaLlamada.ToString());
+                    }
                 }
             }
         }
@@ -77,7 +82,10 @@ namespace CentralitaForm
                     OrdenLlamadas();
                     foreach (Llamada unaLlamada in _centralita.Llamadas)
                     {
-                        this.listaLlamadas.Items.Add(unaLlamada.ToString());
+                        if (unaLlamada.CostoLlamada == 0)
+                        {
+                            this.listaLlamadas.Items.Add(unaLlamada.ToString());
+                        }
                     }
                     break;
             }
@@ -98,7 +106,23 @@ namespace CentralitaForm
         private void terminarLlamada_Click(object sender, EventArgs e)
         {
             int index = listaLlamadas.SelectedIndex;
-           
+            FrmFinLlamada frmFin = new FrmFinLlamada(this._centralita.Llamadas[index]);
+            frmFin.ShowDialog();
+            if (frmFin.DialogResult == DialogResult.OK)
+            {
+                this.listaLlamadas.Items.Clear();
+                if (this.cmbOrden.SelectedIndex == 1)
+                {
+                    OrdenLlamadas();
+                }
+                foreach (Llamada unaLlamada in _centralita.Llamadas)
+                {
+                    if(unaLlamada.CostoLlamada==0)
+                    {
+                        this.listaLlamadas.Items.Add(unaLlamada.ToString());
+                    }
+                }
+            }
         }
     }
 }

@@ -41,7 +41,6 @@ namespace CentralitaForm
         protected override void btnCancelar_Click(object sender, EventArgs e)
         {
             this.DialogResult = DialogResult.Cancel;
-            base.btnCancelar_Click(sender, e);
         }
     }
 }
