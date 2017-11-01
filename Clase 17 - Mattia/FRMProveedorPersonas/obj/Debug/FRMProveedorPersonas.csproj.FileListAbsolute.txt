@@ -1,0 +1,12 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\bin\Debug\FRMProveedorPersonas.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\bin\Debug\FRMProveedorPersonas.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\bin\Debug\FRMProveedorPersonas.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\obj\Debug\FRMProveedorPersonas.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\obj\Debug\FRMProveedorPersonas.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\obj\Debug\FRMProveedorPersonas.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\obj\Debug\FRMProveedorPersonas.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\obj\Debug\FRMProveedorPersonas.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\obj\Debug\FRMProveedorPersonas.FRMPrincipal.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 17 - Mattia\FRMProveedorPersonas\obj\Debug\FRMProveedorPersonas.FRMabm.resources

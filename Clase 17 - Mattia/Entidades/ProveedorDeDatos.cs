@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
+using System.Data;
 
 namespace Entidades
 {
@@ -20,19 +21,27 @@ namespace Entidades
         public List<Persona> ObtenerPersonasBD()
         {
             // crea 4 personas y las agrega
-            List<Persona> listaDePersonas = new List<Persona>();
-            sqlconexion.Open();
-            sqlcomander = new SqlCommand();
-            sqlcomander.Connection = sqlconexion;
-            sqlcomander.CommandType = System.Data.CommandType.Text;
-            sqlcomander.CommandText="SELECT id,nombre,apellido,edad FROM Personas";
-            SqlDataReader reader=sqlcomander.ExecuteReader();
-            while (reader.Read())
+            try
             {
-                listaDePersonas.Add(new Persona((int)reader[0], (string)reader[1], (string)reader[2], (int)reader[3]));
+                List<Persona> listaDePersonas = new List<Persona>();
+                sqlconexion.Open();
+                sqlcomander = new SqlCommand();
+                sqlcomander.Connection = sqlconexion;
+                sqlcomander.CommandType = System.Data.CommandType.Text;
+                sqlcomander.CommandText = "SELECT id,nombre,apellido,edad FROM Personas";
+                SqlDataReader reader = sqlcomander.ExecuteReader();
+                while (reader.Read())
+                {
+                    listaDePersonas.Add(new Persona((int)reader[0], (string)reader[1], (string)reader[2], (int)reader[3]));
+                }
+                reader.Close();
+                sqlconexion.Close();
+                return listaDePersonas;
             }
-            sqlconexion.Close();
-            return listaDePersonas;
+            catch (Exception e)
+            {
+                return null;
+            }
         }
 
         public static List<Persona> ObtenerPersonasHC()
@@ -74,6 +83,7 @@ namespace Entidades
             {
                 reader.Read();
                 Persona unaP= new Persona((int)reader[0], (string)reader[1], (string)reader[2], (int)reader[3]);
+                reader.Close();
                 sqlconexion.Close();
                 return unaP;
             }
@@ -125,6 +135,27 @@ namespace Entidades
             return false;   
         }
 
+        public bool ModificarPersonaBD(Persona unaP)
+        {
+            sqlconexion.Open();
+            sqlcomander = new SqlCommand();
+            sqlcomander.Connection = sqlconexion;
+            sqlcomander.CommandType = System.Data.CommandType.Text;
+            try
+            {
+                sqlcomander.CommandText = "UPDATE Personas SET nombre='" + unaP.nombre + "',apellido='" + unaP.apellido + "',edad=" + unaP.edad + " WHERE id="+unaP.id;
+                sqlcomander.ExecuteNonQuery();
+                sqlconexion.Close();
+                return true;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                sqlconexion.Close();
+                return false;
+            }
+        }
+
         public static bool EliminarPersona(Persona unaP)
         {
             List<Persona> listaPersonas = ObtenerPersonasHC();
@@ -159,5 +190,21 @@ namespace Entidades
                 return false;
             }
         }
+
+        public DataTable ObtenerPersonasBD(bool valor)
+        {
+            DataTable myTable= new DataTable("Personas");
+            sqlconexion.Open();
+            sqlcomander = new SqlCommand();
+            sqlcomander.Connection = sqlconexion;
+            sqlcomander.CommandType = System.Data.CommandType.Text;
+            sqlcomander.CommandText = "SELECT id,nombre,apellido,edad FROM Personas";
+            SqlDataReader reader = sqlcomander.ExecuteReader();
+            myTable.Load(reader);
+            reader.Close();
+            sqlconexion.Close();
+            return myTable;
+        }
+        
     }
 }

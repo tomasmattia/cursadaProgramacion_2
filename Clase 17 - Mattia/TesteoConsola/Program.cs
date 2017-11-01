@@ -30,11 +30,8 @@ namespace TesteoConsola
                 Console.WriteLine("Se busco un id que no existe");
             }
             Console.ReadKey();
-            unProveedor.EliminarPersonaDB(new Persona(9, "a", "a", 25));
-            foreach (Persona p in unProveedor.ObtenerPersonasBD())
-            {
-                Console.WriteLine(p.ToString());
-            }
+
+
             Console.ReadKey();
         }
     }
