@@ -1,0 +1,5 @@
+c:\users\tomas\source\repos\Practica1\Entidades\bin\Debug\Entidades.dll
+c:\users\tomas\source\repos\Practica1\Entidades\bin\Debug\Entidades.pdb
+c:\users\tomas\source\repos\Practica1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+c:\users\tomas\source\repos\Practica1\Entidades\obj\Debug\Entidades.dll
+c:\users\tomas\source\repos\Practica1\Entidades\obj\Debug\Entidades.pdb
