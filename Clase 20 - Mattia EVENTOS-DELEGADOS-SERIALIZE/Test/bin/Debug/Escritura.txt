@@ -1,0 +1,4 @@
+14/11/2017 21:49:03 | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 21:49:03 | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 21:49:03 | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 21:49:03 | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0

@@ -1,0 +1,11 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\FormGuardar\bin\Debug\FormGuardar.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\FormGuardar\bin\Debug\FormGuardar.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\FormGuardar\bin\Debug\FormGuardar.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\FormGuardar\bin\Debug\Personas.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\FormGuardar\bin\Debug\Personas.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\FormGuardar\obj\Debug\FormGuardar.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\FormGuardar\obj\Debug\FormGuardar.Form1.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\FormGuardar\obj\Debug\FormGuardar.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\FormGuardar\obj\Debug\FormGuardar.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\FormGuardar\obj\Debug\FormGuardar.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\FormGuardar\obj\Debug\FormGuardar.pdb

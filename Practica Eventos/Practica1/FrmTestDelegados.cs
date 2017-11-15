@@ -22,17 +22,8 @@ namespace Practica1
 
         private void actualizar_Click(object sender, EventArgs e)
         {
-            foreach (Form i in Application.OpenForms)
-            {
-                if (i is FrmDatos)
-                {
-                    NombreDel delegadoNombre = new NombreDel(((FrmDatos)i).ActualizarNombre);
-                    delegadoNombre.Invoke(this.nombreBox.Text);
-                    delegadoNombre = new NombreDel(((FrmDatos)i).ActualizarFoto);
-                    delegadoNombre.Invoke(this.path);
-                    break;
-                }
-            }
+            ((FrmPrincipal)this.Owner).actualizarNombrePorDelegado(this.nombreBox.Text);
+            ((FrmPrincipal)this.Owner).actualizarFotoPorDelegado(path);
         }
 
         private bool ConfigurarOpenSaveFileDialog()

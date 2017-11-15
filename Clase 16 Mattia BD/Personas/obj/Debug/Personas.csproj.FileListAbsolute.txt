@@ -1,0 +1,4 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\Personas\bin\Debug\Personas.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\Personas\bin\Debug\Personas.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\Personas\obj\Debug\Personas.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\Personas\obj\Debug\Personas.pdb

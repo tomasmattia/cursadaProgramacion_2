@@ -1,0 +1,11 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\TesteoForm\bin\Debug\TesteoForm.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\TesteoForm\bin\Debug\TesteoForm.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\TesteoForm\bin\Debug\TesteoForm.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\TesteoForm\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\TesteoForm\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\TesteoForm\obj\Debug\TesteoForm.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\TesteoForm\obj\Debug\TesteoForm.Form1.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\TesteoForm\obj\Debug\TesteoForm.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\TesteoForm\obj\Debug\TesteoForm.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\TesteoForm\obj\Debug\TesteoForm.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\TesteoForm\obj\Debug\TesteoForm.pdb

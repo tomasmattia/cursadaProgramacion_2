@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personas", "Personas\Personas.csproj", "{12F36C1A-40FB-4109-BEEA-912B83CFB5DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaGuardad", "ConsolaGuardad\ConsolaGuardad.csproj", "{74607A9F-F5B5-4720-91A1-B05D9827030E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormGuardar", "FormGuardar\FormGuardar.csproj", "{BA52115E-C91E-429B-912C-456D9C597496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F36C1A-40FB-4109-BEEA-912B83CFB5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F36C1A-40FB-4109-BEEA-912B83CFB5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F36C1A-40FB-4109-BEEA-912B83CFB5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F36C1A-40FB-4109-BEEA-912B83CFB5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74607A9F-F5B5-4720-91A1-B05D9827030E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74607A9F-F5B5-4720-91A1-B05D9827030E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74607A9F-F5B5-4720-91A1-B05D9827030E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74607A9F-F5B5-4720-91A1-B05D9827030E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA52115E-C91E-429B-912C-456D9C597496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA52115E-C91E-429B-912C-456D9C597496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA52115E-C91E-429B-912C-456D9C597496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA52115E-C91E-429B-912C-456D9C597496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

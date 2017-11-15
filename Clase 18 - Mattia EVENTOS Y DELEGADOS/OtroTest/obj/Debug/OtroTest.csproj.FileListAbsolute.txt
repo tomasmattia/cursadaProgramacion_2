@@ -1,0 +1,8 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTest\bin\Debug\OtroTest.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTest\bin\Debug\OtroTest.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTest\bin\Debug\OtroTest.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTest\obj\Debug\OtroTest.Form1.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTest\obj\Debug\OtroTest.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTest\obj\Debug\OtroTest.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTest\obj\Debug\OtroTest.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTest\obj\Debug\OtroTest.pdb

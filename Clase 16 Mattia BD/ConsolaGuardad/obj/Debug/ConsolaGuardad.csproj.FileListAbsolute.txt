@@ -1,0 +1,8 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\ConsolaGuardad\bin\Debug\ConsolaGuardad.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\ConsolaGuardad\bin\Debug\ConsolaGuardad.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\ConsolaGuardad\bin\Debug\ConsolaGuardad.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\ConsolaGuardad\bin\Debug\Personas.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\ConsolaGuardad\bin\Debug\Personas.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\ConsolaGuardad\obj\Debug\ConsolaGuardad.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\ConsolaGuardad\obj\Debug\ConsolaGuardad.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 16 Mattia\ConsolaGuardad\obj\Debug\ConsolaGuardad.pdb

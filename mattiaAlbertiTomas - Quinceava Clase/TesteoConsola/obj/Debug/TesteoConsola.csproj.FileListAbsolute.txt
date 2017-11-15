@@ -1,0 +1,16 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\TesteoConsola\bin\Debug\TesteoConsola.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\TesteoConsola\bin\Debug\TesteoConsola.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\TesteoConsola\bin\Debug\TesteoConsola.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\TesteoConsola\bin\Debug\Entidades - Clase 14.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\TesteoConsola\bin\Debug\Entidades - Clase 14.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\TesteoConsola\obj\Debug\TesteoConsola.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\TesteoConsola\obj\Debug\TesteoConsola.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\TesteoConsola\obj\Debug\TesteoConsola.pdb
+D:\mattiaAlbertiTomas - Catorceava Clase\TesteoConsola\bin\Debug\TesteoConsola.exe.config
+D:\mattiaAlbertiTomas - Catorceava Clase\TesteoConsola\bin\Debug\TesteoConsola.exe
+D:\mattiaAlbertiTomas - Catorceava Clase\TesteoConsola\bin\Debug\TesteoConsola.pdb
+D:\mattiaAlbertiTomas - Catorceava Clase\TesteoConsola\bin\Debug\Entidades - Clase 14.dll
+D:\mattiaAlbertiTomas - Catorceava Clase\TesteoConsola\bin\Debug\Entidades - Clase 14.pdb
+D:\mattiaAlbertiTomas - Catorceava Clase\TesteoConsola\obj\Debug\TesteoConsola.csprojResolveAssemblyReference.cache
+D:\mattiaAlbertiTomas - Catorceava Clase\TesteoConsola\obj\Debug\TesteoConsola.exe
+D:\mattiaAlbertiTomas - Catorceava Clase\TesteoConsola\obj\Debug\TesteoConsola.pdb

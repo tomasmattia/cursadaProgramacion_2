@@ -1,0 +1,8 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\Testeo Consola\bin\Debug\Testeo Consola.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\Testeo Consola\bin\Debug\Testeo Consola.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\Testeo Consola\bin\Debug\Testeo Consola.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\Testeo Consola\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\Testeo Consola\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\Testeo Consola\obj\Debug\Testeo Consola.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\Testeo Consola\obj\Debug\Testeo Consola.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\Testeo Consola\obj\Debug\Testeo Consola.pdb

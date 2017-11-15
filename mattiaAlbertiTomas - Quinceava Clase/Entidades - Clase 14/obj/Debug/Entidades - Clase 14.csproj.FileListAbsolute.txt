@@ -1,0 +1,10 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\Entidades - Clase 14\obj\Debug\Entidades - Clase 14.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\Entidades - Clase 14\bin\Debug\Entidades - Clase 14.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\Entidades - Clase 14\bin\Debug\Entidades - Clase 14.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\Entidades - Clase 14\obj\Debug\Entidades - Clase 14.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades - Clase 14\Entidades - Clase 14\obj\Debug\Entidades - Clase 14.pdb
+D:\mattiaAlbertiTomas - Catorceava Clase\Entidades - Clase 14\obj\Debug\Entidades - Clase 14.csprojResolveAssemblyReference.cache
+D:\mattiaAlbertiTomas - Catorceava Clase\Entidades - Clase 14\obj\Debug\Entidades - Clase 14.dll
+D:\mattiaAlbertiTomas - Catorceava Clase\Entidades - Clase 14\obj\Debug\Entidades - Clase 14.pdb
+D:\mattiaAlbertiTomas - Catorceava Clase\Entidades - Clase 14\bin\Debug\Entidades - Clase 14.dll
+D:\mattiaAlbertiTomas - Catorceava Clase\Entidades - Clase 14\bin\Debug\Entidades - Clase 14.pdb

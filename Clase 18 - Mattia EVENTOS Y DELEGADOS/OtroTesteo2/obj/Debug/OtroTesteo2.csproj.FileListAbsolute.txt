@@ -1,0 +1,8 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTesteo2\bin\Debug\OtroTesteo2.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTesteo2\bin\Debug\OtroTesteo2.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTesteo2\bin\Debug\OtroTesteo2.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTesteo2\obj\Debug\OtroTesteo2.Form1.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTesteo2\obj\Debug\OtroTesteo2.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTesteo2\obj\Debug\OtroTesteo2.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTesteo2\obj\Debug\OtroTesteo2.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 18 - Mattia\OtroTesteo2\obj\Debug\OtroTesteo2.pdb

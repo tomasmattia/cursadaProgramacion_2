@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{643FA19D-76C6-4E6E-B644-8FC3E04630B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteoConsola", "TesteoConsola\TesteoConsola.csproj", "{F235DDB8-2632-484C-AB20-C155A35BB9D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FRMProveedorPersonas", "FRMProveedorPersonas\FRMProveedorPersonas.csproj", "{074BE4FD-64B0-47C2-890F-2F25F18AE2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643FA19D-76C6-4E6E-B644-8FC3E04630B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643FA19D-76C6-4E6E-B644-8FC3E04630B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643FA19D-76C6-4E6E-B644-8FC3E04630B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643FA19D-76C6-4E6E-B644-8FC3E04630B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F235DDB8-2632-484C-AB20-C155A35BB9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F235DDB8-2632-484C-AB20-C155A35BB9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F235DDB8-2632-484C-AB20-C155A35BB9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F235DDB8-2632-484C-AB20-C155A35BB9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074BE4FD-64B0-47C2-890F-2F25F18AE2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074BE4FD-64B0-47C2-890F-2F25F18AE2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074BE4FD-64B0-47C2-890F-2F25F18AE2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074BE4FD-64B0-47C2-890F-2F25F18AE2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

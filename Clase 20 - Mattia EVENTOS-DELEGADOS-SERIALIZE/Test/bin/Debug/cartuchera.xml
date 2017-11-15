@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CartucheraOfUtiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ultimoAgregado xsi:type="Lapicera">
+    <Color>Black</Color>
+    <Trazo>0</Trazo>
+  </ultimoAgregado>
+</CartucheraOfUtiles>

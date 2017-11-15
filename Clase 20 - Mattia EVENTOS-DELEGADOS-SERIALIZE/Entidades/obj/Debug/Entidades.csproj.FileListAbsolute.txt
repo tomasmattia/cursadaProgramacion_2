@@ -1,0 +1,13 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 - Mattia\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 - Mattia\Entidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 - Mattia\Entidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 - Mattia\Entidades\obj\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 - Mattia\Entidades\obj\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 - Mattia\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Clase 20 - Mattia\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Clase 20 - Mattia\Entidades\bin\Debug\Entidades.dll
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Clase 20 - Mattia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Clase 20 - Mattia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Clase 20 - Mattia\Entidades\obj\Debug\Entidades.dll
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Clase 20 - Mattia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\tomas\Documents\GitHub\cursadaProgramacion_2\Clase 20 - Mattia\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
