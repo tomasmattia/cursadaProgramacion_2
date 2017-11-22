@@ -1,0 +1,10 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 Mattia\TesteoConsola\bin\Debug\TesteoConsola.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 Mattia\TesteoConsola\bin\Debug\TesteoConsola.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 Mattia\TesteoConsola\bin\Debug\TesteoConsola.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 Mattia\TesteoConsola\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 Mattia\TesteoConsola\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 Mattia\TesteoConsola\obj\Debug\TesteoConsola.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 Mattia\TesteoConsola\obj\Debug\TesteoConsola.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 Mattia\TesteoConsola\obj\Debug\TesteoConsola.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 Mattia\TesteoConsola\bin\Debug\Entidades.Externa.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Clase 20 Mattia\TesteoConsola\bin\Debug\Entidades.Externa.Sellada.dll
